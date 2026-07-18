@@ -53,3 +53,26 @@ for( let breakNumebr = 1; breakNumebr <=50; breakNumebr++){
   }
 }
 console.log("The number loop is Break");
+//11
+for(let x = 1 ; x<=20; x++){
+  if( x %4 ==0){
+    continue;
+  }
+  console.log(x);
+}
+//12
+let y =6;
+do{
+  console.log("Code is running for 1 time");
+  y++
+} while(y <=5)
+//13
+
+//14
+for(z = 1; z<=100; z++){
+  if(z %5 == 0)
+    continue
+  else if(z >40)
+    break
+  console.log(z);
+}
