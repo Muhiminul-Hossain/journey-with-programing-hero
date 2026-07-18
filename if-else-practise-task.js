@@ -140,3 +140,11 @@ if(isLoggedIn){
 } else {
   console.log("Pls Login");
 }
+//16
+let evenOrOdd = 13;
+let checkNumber = evenOrOdd % 2 === 0 ?"This is a even Number" : "This is an Odd Number"
+console.log(checkNumber);
+//17
+let ages =25
+let adultOrMinor = ages >=18 ? "Adult" : "Minor"
+console.log(adultOrMinor);
