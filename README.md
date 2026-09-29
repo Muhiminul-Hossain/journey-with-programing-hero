@@ -4,9 +4,6 @@
 
 This repository is my learning journey through the Programming Hero full-stack web development course. It holds my JavaScript practice files, small tasks, and exercises. I add to it as I learn new topics.
 
-## Screenshot
-
-![Project Screenshot](./screenshot.png)
 
 ## Technologies Used
 
